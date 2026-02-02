@@ -1,0 +1,15 @@
+# python
+__pycache__/
+*.pyc
+
+# virtual env
+fin_engi/
+.venv/
+venv/
+
+# env vars
+.env
+
+# dbt
+target/
+logs/
